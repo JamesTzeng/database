@@ -1,0 +1,6 @@
+tmp/
+bin/
+backup/
+.project
+*pass*
+**/*pass*
